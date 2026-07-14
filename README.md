@@ -1,26 +1,42 @@
-
 <div align="center">
 
-<!-- این بنر نئونی متحرک است (یک GIF شیک انتخاب کن) -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4eG5hZ2RzZg/26tn38aH2hA3p3n0k/giphy.gif" width="100%" />
+<!-- بنر نئونی مخصوص گیمرها و برنامه نویس‌ها -->
+<img src="https://capsule-render.vercel.app/render?type=venom&height=200&color=000000&text=SHADOW%20CORE&fontSize=80&fontAlignY=50&fontColor=ff003c" />
 
-# ⚡ RED SHADOW MODE ⚡
 <br>
 
-<!-- این بخش دکمه‌های نئونی است -->
-<a href="https://your-website.com">
-  <img src="https://img.shields.io/badge/VISIT_MY_PROJECTS-ff003c?style=for-the-badge&logo=codeforces&logoColor=white" />
+<!-- افکت تایپ‌رایتر (متن متحرک) -->
+# 👋 Hi, I'm <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FF003C&center=true&vCenter=true&width=435&lines=Web+Developer;UI%2FUX+Designer;CS2+Player;Shadow+Coder" alt="Typing SVG" />
+
+<br>
+
+### ✦ Tech Stack ✦
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,figma,vscode,github,git&theme=dark" />
+</p>
+
+<br>
+
+---
+
+### ✦ My Projects ✦
+*Click below to see the live preview (No code, just magic)*
+
+<a href="لینک_دموی_پروژه_اول_تو">
+  <img src="https://img.shields.io/badge/LIVE_DEMO_1-ff003c?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="لینک_دموی_پروژه_دوم_تو">
+  <img src="https://img.shields.io/badge/LIVE_DEMO_2-ff003c?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <br><br>
 
-### ✦ Tech Stack (Glowing) ✦
-<!-- آیکون‌های متحرک و درخشان -->
-<img src="https://skillicons.dev/icons?i=react,js,css,html,figma&perline=5" />
+---
 
-<br><br>
-
-<!-- آمار نئونی -->
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&bg_color=0d1117&title_color=ff003c&text_color=ff003c&icon_color=ff003c&border_color=ff003c)
+### ✦ GitHub Stats ✦
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ab2238058-spec&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff003c&text_color=ffffff&icon_color=ff003c&border_color=ff003c&hide_border=false" />
+</p>
 
 </div>
+
