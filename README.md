@@ -1,8 +1,3 @@
-<img width="844" height="863" alt="IMG_20260712_012306" src="https://github.com/user-attachments/assets/5b3aa266-295a-4c19-9979-2d8b1fe240ba" />
-<img width="736" height="736" alt="015f3522b81acf2b9bdd46fb5fce1315" src="https://github.com/user-attachments/assets/5ba5ec42-a4d2-4b01-9025-0c9a4467439e" />
-<img width="736" height="736" alt="ef08f763a9e2f92a22260aa3a0911dfa" src="https://github.com/user-attachments/assets/c9fdcee8-3bcc-4be9-9d9b-27735637e44d" />
-<img width="384" height="384" alt="giphy" src="https://github.com/user-attachments/assets/c37b354e-a72e-4d3d-af7a-6d7a98f1fb68" />
-<div align="center">
 
 <!-- بنر اصلی (ساسکه با افکت بنفش) -->
 <img src="https://github.com/user-attachments/assets/5b3aa266-295a-4c19-9979-2d8b1fe240ba" width="100%" style="border-radius: 10px; border: 2px solid #FF003C;" />
